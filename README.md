@@ -1,1 +1,3 @@
 # WST21-PM-2026-SF-KP
+Pilande, Kian Jay M.
+BSIT 2 - SECTION 3
