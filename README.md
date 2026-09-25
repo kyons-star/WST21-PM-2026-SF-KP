@@ -1,4 +1,3 @@
-WST21-PM-2026-SF-KP
 # Personal Task Manager
 
 ## Project Information
